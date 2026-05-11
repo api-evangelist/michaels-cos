@@ -21,6 +21,18 @@ apis: []
 common:
   - type: Website
     url: https://www.michaels.com/
+  - type: Integrations
+    url: https://www.michaels.com/integrations
+integrations:
+  - name: Logo Home
+  - name: Store
+  - name: loading
+  - name: Shop menu
+  - name: Services
+  - name: Savings
+  - name: Buy Again
+  - name: twitter
+  - name: youtube
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
