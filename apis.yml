@@ -22,6 +22,11 @@ tags:
   - Retail
   - Arts and Crafts
   - Specialty Retail
+  - E-Commerce
+tags_raw:
+  - Retail
+  - Arts and Crafts
+  - Specialty Retail
   - E-commerce
 url: >-
   https://raw.githubusercontent.com/api-evangelist/michaels-cos/refs/heads/main/apis.yml
