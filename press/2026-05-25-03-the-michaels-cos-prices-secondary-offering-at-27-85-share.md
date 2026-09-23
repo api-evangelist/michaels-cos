@@ -1,7 +1,9 @@
 ---
 title: The Michaels Cos prices secondary offering at $27.85/share
 url: https://www.reuters.com/article/business/the-michaels-cos-prices-secondary-offering-at-2785share-idUSASC08WUD/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Michaels Cos." press release artificial intelligence'
 position: 3
 source: serpapi-google

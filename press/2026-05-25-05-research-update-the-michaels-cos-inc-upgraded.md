@@ -1,7 +1,9 @@
 ---
 title: 'Research Update: The Michaels Cos. Inc. Upgraded'
 url: https://www.spglobal.com/ratings/en/regulatory/article/-/view/sourceId/13060501
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Michaels Cos." press release artificial intelligence'
 position: 5
 source: serpapi-google
