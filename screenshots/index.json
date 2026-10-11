@@ -1,0 +1,11 @@
+[
+  {
+    "repo": "michaels-cos",
+    "captured_at": "2026-10-11T190749",
+    "source_url": "https://www.michaels.com/",
+    "source_type": "Website",
+    "file": "michaels-cos-2026-10-11T190749.png",
+    "bytes": 25395,
+    "capture": "playwright-local"
+  }
+]
